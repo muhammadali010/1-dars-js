@@ -37,6 +37,9 @@
 // let b = number%10;
 // a =parseInt(a);
 // b =parseInt(b);
+// console.log(a);
+// console.log("va");
+// console.log(b);
 // document.write(a);
 // document.write("va");
 // document.write(b);
@@ -48,6 +51,7 @@
 // let b = number/10;
 // a =parseInt(a);
 // b =parseInt(b);
+// console.log(a+b);
 // document.write(a+b);
 
 
@@ -57,6 +61,10 @@
 // let b = son%10;
 // a= parseInt(a);
 // b = parseInt(b);
+// console.log(b);
+// console.log(a);
+// console.log("va");
+// console.log(a+b);
 // document.write(b);
 // document.write(a);
 // document.write("va")
@@ -67,6 +75,7 @@
 // let son =+ prompt("uch xonali son kiriting");
 // let a = son / 100;
 // a = parseInt(a);
+// console.log(a);
 // document.write(a);
 
 
@@ -82,6 +91,8 @@
 // c = parseInt(c);
 // d = parseInt(d);
 // e = parseInt(e);
+// console.log(e);
+// console.log(c);
 // document.write(e);
 // document.write(c);
 
@@ -98,6 +109,7 @@
 // c = parseInt(c);
 // d = parseInt(d);
 // e = parseInt(e);
+// console.log(b+c+e);
 // document.write(b+c+e);
 
 
@@ -113,6 +125,9 @@
 // c = parseInt(c);
 // d = parseInt(d);
 // e = parseInt(e);
+// console.log(e);
+// console.log(c);
+// console.log(b);
 // document.write(e);
 // document.write(c);
 // document.write(b);
@@ -130,6 +145,9 @@
 // c = parseInt(c);
 // d = parseInt(d);
 // e = parseInt(e);
+// console.log(c);
+// console.log(e);
+// console.log(b);
 // document.write(c);
 // document.write(e);
 // document.write(b);
